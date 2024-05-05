@@ -1,4 +1,4 @@
-# Solana-Raydium-Trades
+# Solana-pump.fun-Trades
 
 Buy and Sell SPL tokens on pump.fun using their API for swapping on the pum.fun liquidity system.
 
