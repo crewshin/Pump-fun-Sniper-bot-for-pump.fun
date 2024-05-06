@@ -10,11 +10,11 @@ Buy and Sell SPL tokens on pump.fun using their API for swapping on the pum.fun 
 
 Open a cmd in the sniper's folder
 ```bash
-1 -pip install -r requirements.txt
+1 - pip install -r requirements.txt
 ```
 run main
 ```bash
-2- py main.py
+2 - py main.py
 ```
 
 ## 💰 If everything is done correctly this is how the bot work
