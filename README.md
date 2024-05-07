@@ -1,4 +1,4 @@
-##Welcome to  Pump.fun bot 
+### Welcome to  Pump.fun bot 
 
 
 > this bot stands out as an exceptional bot for Pump.fun, offering an extensive range of features that streamline and enhance your interaction with the Pump.fun site. 
@@ -88,8 +88,8 @@ https://github.com/milkersman/pumpcow-pumpfun-bot/assets/167958821/058d2d99-c37e
 - We provide the option for feature customisation tailored to your specific requirements, subject to an additional charge of course 💸
 
 ## Pre requisites
-- `npm >= v8.19.2`
-- `node >= v18.12.1`
+- `python installed`
+
 
 ## Install
 ```sh
